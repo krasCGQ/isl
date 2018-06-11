@@ -7,7 +7,7 @@
 
 #include <isl/ctx.h>
 #include <isl/val_type.h>
-#include <isl/space_type.h>
+#include <isl/space.h>
 #include <isl/aff_type.h>
 
 #if defined(__cplusplus)

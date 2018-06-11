@@ -10,7 +10,6 @@
 #ifndef ISL_SET_H
 #define ISL_SET_H
 
-#include <isl/id_type.h>
 #include <isl/map_type.h>
 #include <isl/aff_type.h>
 #include <isl/list.h>

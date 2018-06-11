@@ -3,7 +3,7 @@
 
 #include <isl/ctx.h>
 #include <isl/constraint.h>
-#include <isl/space_type.h>
+#include <isl/space.h>
 #include <isl/set_type.h>
 #include <isl/point.h>
 #include <isl/printer.h>
